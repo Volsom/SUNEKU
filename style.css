@@ -582,7 +582,7 @@ a:active {
     }
     .logo {
         position: absolute;
-        left: 44%;
+        left: 40%;
         top: 50px;
         width: 100px;
         height: 200px;
@@ -596,7 +596,7 @@ a:active {
     }
     .title {
         position: absolute;
-        left: 12%;
+        left: 5%;
         font-size: 50px;
         top: 350px;
     }
@@ -607,7 +607,7 @@ a:active {
         max-width: 400px;
         font-size: 26px;
         margin: 0px;
-        left: 10%;
+        left: 5%;
 }
     .devis {
         position: absolute;
@@ -615,7 +615,7 @@ a:active {
         width: 400px;
         max-width: 400px;
         font-size: 26px;
-        left: 12%;
+        left: 5%;
     }
     .chery1 {
         width: 30px;
