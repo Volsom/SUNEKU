@@ -569,7 +569,18 @@ a:active {
     }
 }
 @media only screen and (max-width: 460px) and (min-width: 449px) {
-     .logo {
+    .container {
+        min-width: 449px;
+    }
+    .tree {
+        width: 180px;
+        height: 168px;
+    }
+    .sakura {
+        width: 100px;
+        height: 156px;
+    }
+    .logo {
         position: absolute;
         left: 40%;
         top: 40px;
@@ -596,7 +607,7 @@ a:active {
         max-width: 400px;
         font-size: 26px;
         margin: 0px;
-        left: 5%;
+        left: 20px;
 }
     .devis {
         position: absolute;
@@ -604,7 +615,39 @@ a:active {
         width: 400px;
         max-width: 400px;
         font-size: 26px;
-        left: 5%;
+        left: 20px;
+    }
+    .chery1 {
+        width: 30px;
+        height: 30px;
+    }
+    .chery2 {
+        width: 30px;
+        height: 30px;
+    }
+         .footer {
+        position: absolute;
+        margin: 0;
+        padding: 0;
+        top: 900px;
+        margin-left: -6%;
+        padding-bottom: 100px;
+    }
+    a {
+        width: 60px;
+        height: 60px;
+    }
+    .steam {
+        margin-left: 40px;
+    }
+    .faceit {
+        margin-left: 140px;
+    }
+    .vk {
+        margin-left: 240px;
+    }
+    .instagram {
+        margin-left: 340px;
     }
 }
 @media only screen and (max-width: 560px) and (min-width: 460px) {
