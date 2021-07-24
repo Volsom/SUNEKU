@@ -227,6 +227,7 @@ a:active {
         padding: 0;
         top: 900px;
         margin-left: 0%;
+        padding-bottom: 20%;
     }
     a {
         width: 30px;
@@ -309,6 +310,7 @@ a:active {
         padding: 0;
         top: 900px;
         margin-left: 0%;
+        padding-bottom: 20%;
     }
     a {
         width: 30px;
@@ -391,6 +393,7 @@ a:active {
         padding: 0;
         top: 900px;
         margin-left: 0%;
+        padding-bottom: 20%;
     }
     a {
         width: 60px;
@@ -472,6 +475,7 @@ a:active {
         padding: 0;
         top: 900px;
         margin-left: 0%;
+        padding-bottom: 20%;
     }
     a {
         width: 60px;
@@ -554,6 +558,7 @@ a:active {
         padding: 0;
         top: 900px;
         margin-left: 0%;
+        padding-bottom: 20%;
     }
     a {
         width: 60px;
@@ -635,6 +640,7 @@ a:active {
         padding: 0;
         top: 900px;
         margin-left: 0%;
+        padding-bottom: 20%;
     }
     a {
         width: 60px;
@@ -716,6 +722,7 @@ a:active {
         padding: 0;
         top: 900px;
         margin-left: 10%;
+        padding-bottom: 20%;
     }
 }
 @media only screen and (max-width: 768px) and (min-width: 700px) {
@@ -782,5 +789,6 @@ a:active {
         padding: 0;
         top: 900px;
         margin-left: 15%;
+        padding-bottom: 20%;
     }
 }
