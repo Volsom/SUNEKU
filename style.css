@@ -688,7 +688,7 @@ a:active {
         max-width: 400px;
         font-size: 26px;
         margin: 0px;
-        left: 12%;
+        left: 10%;
 }
     .devis {
         position: absolute;
@@ -711,7 +711,7 @@ a:active {
         margin: 0;
         padding: 0;
         top: 900px;
-        margin-left: 4%;
+        margin-left: 3%;
         padding-bottom: 200px;
     }
     a {
@@ -793,7 +793,7 @@ a:active {
         margin: 0;
         padding: 0;
         top: 900px;
-        margin-left: 10%;
+        margin-left: 5%;
         padding-bottom: 200px;
     }
 }
