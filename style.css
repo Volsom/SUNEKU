@@ -486,91 +486,10 @@ a:active {
     }
 
 }
-@media only screen and (max-width: 449px) and (min-width: 360px) {
+}
+@media only screen and (max-width: 460px) and (min-width: 360px) {
     .container {
         min-width: 360px;
-    }
-    .tree {
-        width: 180px;
-        height: 168px;
-    }
-    .sakura {
-        width: 100px;
-        height: 156px;
-    }
-    .logo {
-        position: absolute;
-        left: 44%;
-        top: 40px;
-        width: 100px;
-        height: 200px;
-    }
-    .katana {
-        position: absolute;
-        left: 40%;
-        top: 250px;
-        width: 100px;
-        width: 200px;
-    }
-    .title {
-        position: absolute;
-        left: 10%;
-        top: 350px;
-        font-size: 50px;
-    }
-.text {
-        position: absolute;
-        top: 550px;
-        width: 400px;
-        max-width: 400px;
-        font-size: 26px;
-        margin: 0px;
-        left: 20px;
-}
-    .devis {
-        position: absolute;
-        top: 750px;
-        width: 400px;
-        max-width: 400px;
-        font-size: 26px;
-        left: 20px;
-    }
-    .chery1 {
-        width: 30px;
-        height: 30px;
-    }
-    .chery2 {
-        width: 30px;
-        height: 30px;
-    }
-         .footer {
-        position: absolute;
-        margin: 0;
-        padding: 0;
-        top: 900px;
-        margin-left: -3%;
-        padding-bottom: 100px;
-    }
-    a {
-        width: 60px;
-        height: 60px;
-    }
-    .steam {
-        margin-left: 40px;
-    }
-    .faceit {
-        margin-left: 140px;
-    }
-    .vk {
-        margin-left: 240px;
-    }
-    .instagram {
-        margin-left: 340px;
-    }
-}
-@media only screen and (max-width: 460px) and (min-width: 449px) {
-    .container {
-        min-width: 449px;
     }
     .tree {
         width: 180px;
