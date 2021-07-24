@@ -198,7 +198,7 @@ a:active {
         max-width: 400px;
         font-size: 26px;
         margin: 0px;
-        left: 5%;
+        left: 20%;
     }
     .devis {
         position: absolute;
@@ -206,7 +206,7 @@ a:active {
         width: 400px;
         max-width: 400px;
         font-size: 26px;
-        left: 5%;
+        left: 20%;
     }
     .chery1 {
         width: 30px;
@@ -280,7 +280,7 @@ a:active {
         max-width: 400px;
         font-size: 26px;
         margin: 0px;
-        left: 5%;
+        left: 15%;
 }
     .devis {
         position: absolute;
@@ -288,7 +288,7 @@ a:active {
         width: 400px;
         max-width: 400px;
         font-size: 26px;
-        left: 5%;
+        left: 15%;
     }
     .chery1 {
         width: 30px;
@@ -362,7 +362,7 @@ a:active {
         max-width: 400px;
         font-size: 26px;
         margin: 0px;
-        left: 5%;
+        left: 20%;
 }
     .devis {
         position: absolute;
@@ -370,7 +370,7 @@ a:active {
         width: 400px;
         max-width: 400px;
         font-size: 26px;
-        left: 5%;
+        left: 20%;
     }
     .chery1 {
         width: 30px;
@@ -443,7 +443,7 @@ a:active {
         max-width: 400px;
         font-size: 26px;
         margin: 0px;
-        left: 20px;
+        left: 35px;
 }
     .devis {
         position: absolute;
@@ -451,7 +451,7 @@ a:active {
         width: 400px;
         max-width: 400px;
         font-size: 26px;
-        left: 20px;
+        left: 35px;
     }
     .chery1 {
         width: 30px;
@@ -466,7 +466,7 @@ a:active {
         margin: 0;
         padding: 0;
         top: 900px;
-        margin-left: -5%;
+        margin-left: 0%;
     }
     a {
         width: 60px;
@@ -484,9 +484,10 @@ a:active {
     .instagram {
         margin-left: 340px;
     }
+
 }
-@media only screen and (max-width: 400px) and (min-width: 360px) {
-        .container {
+@media only screen and (max-width: 450px) and (min-width: 360px) {
+    .container {
         min-width: 360px;
     }
     .tree {
@@ -499,14 +500,14 @@ a:active {
     }
     .logo {
         position: absolute;
-        left: 56%;
+        left: 44%;
         top: 40px;
         width: 100px;
         height: 200px;
     }
     .katana {
         position: absolute;
-        left: 45%;
+        left: 40%;
         top: 250px;
         width: 100px;
         width: 200px;
@@ -517,14 +518,14 @@ a:active {
         top: 350px;
         font-size: 50px;
     }
-     .text {
+.text {
         position: absolute;
         top: 550px;
         width: 400px;
         max-width: 400px;
         font-size: 26px;
         margin: 0px;
-        left: 20px;
+        left: 35px;
 }
     .devis {
         position: absolute;
@@ -532,7 +533,7 @@ a:active {
         width: 400px;
         max-width: 400px;
         font-size: 26px;
-        left: 20px;
+        left: 35px;
     }
     .chery1 {
         width: 30px;
@@ -542,12 +543,13 @@ a:active {
         width: 30px;
         height: 30px;
     }
-     .footer {
+         .footer {
         position: absolute;
         margin: 0;
         padding: 0;
         top: 900px;
-        margin-left: -5%;
+        margin-left: 0%;
+        padding-bottom: 200px;
     }
     a {
         width: 60px;
@@ -566,8 +568,7 @@ a:active {
         margin-left: 340px;
     }
 }
-}
-@media only screen and (max-width: 560px) and (min-width: 460px) {
+@media only screen and (max-width: 560px) and (min-width: 450px) {
     .container {
         min-width: 450px;
     }
@@ -581,7 +582,7 @@ a:active {
     }
     .logo {
         position: absolute;
-        left: 40%;
+        left: 44%;
         top: 50px;
         width: 100px;
         height: 200px;
@@ -595,7 +596,7 @@ a:active {
     }
     .title {
         position: absolute;
-        left: 5%;
+        left: 12%;
         font-size: 50px;
         top: 350px;
     }
@@ -606,7 +607,7 @@ a:active {
         max-width: 400px;
         font-size: 26px;
         margin: 0px;
-        left: 5%;
+        left: 10%;
 }
     .devis {
         position: absolute;
@@ -614,7 +615,7 @@ a:active {
         width: 400px;
         max-width: 400px;
         font-size: 26px;
-        left: 5%;
+        left: 12%;
     }
     .chery1 {
         width: 30px;
@@ -629,24 +630,24 @@ a:active {
         margin: 0;
         padding: 0;
         top: 900px;
-        margin-left: 5%;
-        padding-bottom: 100px;
+        margin-left: 0%;
+        padding-bottom: 200px;
     }
     a {
         width: 60px;
         height: 60px;
     }
     .steam {
-        margin-left: 30px;
+        margin-left: 40px;
     }
     .faceit {
-        margin-left: 130px;
+        margin-left: 140px;
     }
     .vk {
-        margin-left: 230px;
+        margin-left: 240px;
     }
     .instagram {
-        margin-left: 330px;
+        margin-left: 340px;
     }
 }
 @media only screen and (max-width: 700px) and (min-width: 560px) {
@@ -712,7 +713,7 @@ a:active {
         padding: 0;
         top: 900px;
         margin-left: 10%;
-        padding-bottom: 100px;
+        padding-bottom: 200px;
     }
 }
 @media only screen and (max-width: 768px) and (min-width: 700px) {
@@ -779,6 +780,6 @@ a:active {
         padding: 0;
         top: 900px;
         margin-left: 15%;
-        padding-bottom: 100px;
+        padding-bottom: 200px;
     }
 }
