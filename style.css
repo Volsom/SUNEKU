@@ -131,7 +131,7 @@ text-shadow: 0px 10px 1px rgba(255, 0, 0, 0.25);
      width: 80px;
     margin-left: 110px;
     margin-top: 90px;
-    background-image: url(img/twitter.svg;);
+    background-image: url(img/twitter.svg);
     background-size: cover;
     filter: drop-shadow(0px 10px 1px rgba(255, 0, 0, 0.25));
 }
