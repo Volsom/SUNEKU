@@ -49,6 +49,8 @@ text-shadow: 0px 10px 1px rgba(255, 0, 0, 0.25);
     transition-duration: 2s;
 }
 .text {
+padding-left: 0%;
+padding-right: 0%;
 margin-top: 10%;
 margin-bottom: 10%;
 max-width: 768px;
@@ -64,6 +66,8 @@ color: #FFFFFF;
 text-shadow: 0px 10px 1px rgba(255, 0, 0, 0.25);
 }
 .devis {
+padding-left: 0%;
+padding-right: 0%;
 position: relative;
 margin-bottom: 10%;
 width: 768px;
