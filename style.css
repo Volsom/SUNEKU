@@ -125,11 +125,30 @@ text-shadow: 0px 10px 1px rgba(255, 0, 0, 0.25);
     background-size: cover;
     filter: drop-shadow(0px 10px 1px rgba(255, 0, 0, 0.25));
 }
+.twitter {
+    position: absolute;
+    height: 80px;
+     width: 80px;
+    margin-left: 410px;
+    background-image: url(img/);
+    background-size: cover;
+    filter: drop-shadow(0px 10px 1px rgba(255, 0, 0, 0.25));
+}
+.facebook {
+    position: absolute;
+    height: 80px;
+     width: 80px;
+    margin-left: 410px;
+    background-image: url(img/);
+    background-size: cover;
+    filter: drop-shadow(0px 10px 1px rgba(255, 0, 0, 0.25));
+}
 a {
     text-decoration: none;
+    opacity: 0,5;
 }
 a:hover {
-    opacity: 0.5;
+    opacity: 1;
     transition-duration: .5s;
     height: 90px;
     width: 90px;
@@ -154,10 +173,6 @@ a:hover {
     100% {
         opacity: 100%
     }
-}
-a:active {
-    transform: translateY(50px);
-    transition-duration: .5s
 }
 @media only screen and (max-width: 200px) {
     .container {
