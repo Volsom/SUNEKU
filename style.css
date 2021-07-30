@@ -152,8 +152,6 @@ a {
 a:hover {
     opacity: 1;
     transition-duration: .5s;
-    height: 90px;
-    width: 90px;
 }
 .tree {
     max-width: 50%;
@@ -256,6 +254,9 @@ a:hover {
     .instagram {
         margin-left: 335px;
     }
+    .facebook {
+        margin-left: 300px;
+    }
 }
 @media only screen and (max-width: 270px) and (min-width: 200px) {
 
@@ -337,6 +338,9 @@ a:hover {
     }
     .instagram {
         margin-left: 335px;
+    }
+    .facebook {
+        margin-left: 300px;
     }
 }
 @media only screen and (max-width: 300px) and (min-width: 270px) {
@@ -420,6 +424,9 @@ a:hover {
     .instagram {
         margin-left: 350px;
     }
+    .facebook {
+        margin-left: 300px;
+    }
 }
 @media only screen and (max-width: 360px) and (min-width: 300px) {
     .container {
@@ -501,7 +508,9 @@ a:hover {
     .instagram {
         margin-left: 340px;
     }
-
+    .facebook {
+        margin-left: 300px;
+    }
 }
 @media only screen and (max-width: 450px) and (min-width: 360px) {
     .container {
@@ -584,6 +593,9 @@ a:hover {
     .instagram {
         margin-left: 340px;
     }
+    .facebook {
+        margin-left: 300px;
+    }
 }
 @media only screen and (max-width: 400px) and (min-width: 360px) {
     .container {
@@ -665,7 +677,11 @@ a:hover {
     }
     .instagram {
         margin-left: 340px;
-    }}
+    }
+    .facebook {
+        margin-left: 300px;
+    }
+}
 @media only screen and (max-width: 560px) and (min-width: 450px) {
     .container {
         min-width: 450px;
@@ -747,6 +763,9 @@ a:hover {
     .instagram {
         margin-left: 340px;
     }
+    .facebook {
+        margin-left: 300px;
+    }
 }
 @media only screen and (max-width: 700px) and (min-width: 560px) {
    .container {
@@ -812,6 +831,9 @@ a:hover {
         top: 900px;
         margin-left: 5%;
         padding-bottom: 200px;
+    }
+    .facebook {
+        margin-left: 300px;
     }
 }
 @media only screen and (max-width: 768px) and (min-width: 700px) {
@@ -879,5 +901,8 @@ a:hover {
         top: 900px;
         margin-left: 15%;
         padding-bottom: 200px;
+    }
+    .facebook {
+        margin-left: 300px;
     }
 }
